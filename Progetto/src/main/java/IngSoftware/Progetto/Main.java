@@ -7,5 +7,9 @@ public class Main {
 		System.out.println("Basta giocare i corner");
 		System.out.println("Stoccarda - Sparta Praga Over 8.5 CALCI D'ANGOLO");
 	}
+	
+	public static void prova() {
+		System.out.println("saluti");
+	}
 
 }
