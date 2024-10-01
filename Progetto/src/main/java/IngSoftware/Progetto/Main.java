@@ -6,5 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Basta giocare i corner");
 	}
+	
+	public static void prova() {
+		System.out.println("saluti");
+	}
 
 }
